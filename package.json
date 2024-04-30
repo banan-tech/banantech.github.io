@@ -11,7 +11,7 @@
   "devDependencies": {
     "sass": "^1.69.7",
     "typescript": "^5.2.2",
-    "vite": "^5.0.8"
+    "vite": "^5.0.13"
   },
   "dependencies": {
     "@picocss/pico": "^1.5.11"
